@@ -3,4 +3,4 @@
 Notes on Sets - Crisp Sets, Fuzzy Sets, Intuitionistic Fuzzy Sets, Index Matrices and Generalized Nets
 
 - [Crisp Sets](crisp_sets.md)
-
+- [Set Theory Notation Reference](set_theory_notation_reference.md)
